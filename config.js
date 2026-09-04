@@ -15,14 +15,17 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 global.owner = [
 ['5214774444444', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
 ['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true],
-['573012482597'],
-['5218715746374'],
-['5492266613038'], 
-['595976126756'],
-['593968585383'],
-['5219999699999'],
-['5216646666666'],
-['51968382008']]
+['527206047348', 'JeonJungkook-onwer', true],
+['525564851204', 'Jennie-onwer', true],
+['528334337886', 'sunoo-admin', true],
+['526122024396', 'Jimin-admin', true]
+['18092170528]',  'Lisa Manoban-admin', true]
+['527206047348', 'JeonJungkook-onwer', true],
+['525564851204', 'Jennie-onwer', true],
+['528334337886', 'sunoo-admin', true],
+['526122024396', 'Jimin-admin', true]
+['18092170528]',  'Lisa Manoban-admin', true]
+
 
 global.mods = [] 
 global.prems = []
